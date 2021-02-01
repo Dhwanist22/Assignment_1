@@ -1,7 +1,7 @@
-let name = "Tanmay Deshpande";
-let description = "My name is Tanmay Deshpande. I am a graduate student at San Diego State University pursuing my masters in Computer Science. I have 5 years of experience in developing web based apps on the cloud based Salesforce.com platform. I have done 5 certifications.";
-let gitHubRepo = "https://www.github.com/jackTylerDurden";
-let photoUrl = "photo.jpg";
+let name = "Dhwani Thobhani";
+let description = "My name is Dhwani Thobhani. My RedID is 824452402. I am an international graduate student at San Diego State University pursuing my masters in Computer Science. I am very much interested in web development.";
+let gitHubRepo = "https://www.github.com/Dhwanist22";
+let photoUrl = "photo.heic";
 
 const element = (
     <div id="parentDiv">
